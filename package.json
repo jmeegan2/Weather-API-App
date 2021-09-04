@@ -1,0 +1,19 @@
+{
+  "name": "weather-app-tutorial-main",
+  "version": "1.0.0",
+  "description": "<p align=\"left\">   <a href=\"https://discord.gg/fPrdqh3Zfu\" alt=\"Dev Pro Tips Discussion & Support Server\">     <img src=\"https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge\"/></a> </p>",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmeegan2/Weather-API-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmeegan2/Weather-API-App/issues"
+  },
+  "homepage": "https://github.com/jmeegan2/Weather-API-App#readme"
+}
