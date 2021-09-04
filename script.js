@@ -51,4 +51,4 @@ document
     }
   });
 
-weather.fetchWeather("Bel Air, Maryland, USA");
+weather.fetchWeather("Baltimore");
